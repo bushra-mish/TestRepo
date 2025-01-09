@@ -1,0 +1,3 @@
+This is my 2nd text file
+
+I can still work on this file , git commit and the git push these to the remote.....my local and remote is now connected
